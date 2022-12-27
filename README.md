@@ -3,19 +3,18 @@
 ## 12월
 | date       | problem set          |Check |
 | ---------- | -------------------- | ----  |
-| 12.27 | [최대값과 최소값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | |
-| 12.28 | [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | |
-| 12.29 | [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | |
+| 12.27 | [최대값과 최소값](https://school.programmers.co.kr/learn/courses/30/lessons/12939), [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |✅ |
+| 12.28 | [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | |
 | 12.30 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | |
 
 ## 11월
 | date       | problem set          |Check |
 | ---------- | -------------------- | ----  |
-| 11.04 | [마인크래프트](https://www.acmicpc.net/problem/18111) |❎ |
+| 11.04 | [마인크래프트](https://www.acmicpc.net/problem/18111) |❌ |
 | 11.06 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | ✅ |
 | 11.08 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |  ✅ |
 | 11.10 | [봄버맨](https://www.acmicpc.net/problem/16918) | ✅ |
-| 11.12 | [전광판의 숫자](https://www.acmicpc.net/problem/16159) |❎ |
+| 11.12 | [전광판의 숫자](https://www.acmicpc.net/problem/16159) |❌ |
 | 11.14 | [듣보잡](https://www.acmicpc.net/problem/1764) | ✅  |
 
 
