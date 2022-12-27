@@ -3,10 +3,10 @@
 ## 12월
 | date       | problem set          |Check |
 | ---------- | -------------------- | ----  |
-| 11.16 | [야간 전술보행](https://school.programmers.co.kr/learn/courses/30/lessons/133501) | |
-| 11.18 | [흙길 보수하기](https://www.acmicpc.net/problem/1911) | |
-| 11.20 | [쿼드 트리](https://www.acmicpc.net/problem/1992) | |
-| 11.22 | [히오스 프로그래머](https://www.acmicpc.net/problem/16564) | |
+| 12.27 | [최대값과 최소값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | |
+| 12.28 | [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | |
+| 12.29 | [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | |
+| 12.30 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | |
 
 ## 11월
 | date       | problem set          |Check |
