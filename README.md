@@ -2,14 +2,15 @@
 
 ## 12월
 | date       | problem set          |Check |
-| ---------- | -------------------- | ----  |
+| :---------- |: -------------------- :|: ---- : |
 | 12.27 | [최대값과 최소값](https://school.programmers.co.kr/learn/courses/30/lessons/12939), [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |✅, ✅ |
 | 12.28 | [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) |❌  |
-| 12.30 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909), [미로 탐색](https://www.acmicpc.net/problem/2178) |✅ |
+| 12.29 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |✅ |
+| 12.30 |  [미로 탐색](https://www.acmicpc.net/problem/2178)| |
 
 ## 11월
 | date       | problem set          |Check |
-| ---------- | -------------------- | ----  |
+| :----------: | :--------------------: |: ---- : |
 | 11.04 | [마인크래프트](https://www.acmicpc.net/problem/18111) |❌ |
 | 11.06 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | ✅ |
 | 11.08 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |  ✅ |
@@ -20,7 +21,7 @@
 
 ## 10월
 | date       | problem set          | Check |
-| ---------- | -------------------- | ----  |
+| :----------: | :-------------------- :|: ---- : |
 | 10.01 | [가운데를 말해요 - 답 찾아서  됩니다](https://www.acmicpc.net/problem/1655) | ❌ |
 | 10.02 | [최단경로](https://www.acmicpc.net/problem/1753)  | ----  |
 | 10.03 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ----  |
@@ -44,7 +45,7 @@
 ## 9월 
 
 | date       | problem set          | Check |
-| ---------- | -------------------- | ----  |
+| : ---------- :| :--------------------: | : ---- : |
 | 09.01 | [Same Tree](https://leetcode.com/problems/same-tree/), [퇴사](https://www.acmicpc.net/problem/14501) | ❌ ❌ |
 | 09.02 | [N과 M(2)](https://www.acmicpc.net/problem/15650), [N과 M(3)](https://www.acmicpc.net/problem/15651) | ✅ ❌ |
 | 09.03 | [N과 M(4)](https://www.acmicpc.net/problem/15652) | ✅ |
@@ -73,7 +74,7 @@
 ## 8월
 
 | date       | problem set          | Check |
-| ---------- | -------------------- | ----- |
+| :----------: | :--------------------: | :-----: |
 | 08.24    | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | ✅ |
 | 08.25    | [N과 M(1)](https://www.acmicpc.net/problem/15649) |❌ |
 | 08.26    | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|✅ |
