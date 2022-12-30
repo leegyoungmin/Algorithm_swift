@@ -6,7 +6,7 @@
 | 12.27 | [최대값과 최소값](https://school.programmers.co.kr/learn/courses/30/lessons/12939), [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |✅, ✅ |
 | 12.28 | [최소값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) |❌  |
 | 12.29 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |✅ |
-| 12.30 |  [미로 탐색](https://www.acmicpc.net/problem/2178)| |
+| 12.30 |  [미로 탐색](https://www.acmicpc.net/problem/2178)|✅  |
 
 ## 11월
 | date       | problem set          |Check |
