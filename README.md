@@ -4,7 +4,7 @@
 ### 1월
 | date       | problem set          |Check |
 | :----------: | :--------------------: | :----: |
-| 1.4 | [이진변환 반복기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | |
+| 1.4 | [이진변환 반복기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) |❌ |
 
 
 ## 2022년
